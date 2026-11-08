@@ -1,4 +1,4 @@
-# 📊 SQL Analytics & Data Quality Portfolio (`dvdrental`)
+# 📊 SQL Analytics & Data Quality (`dvdrental`)
 
 ## 📌 Project Overview
 This repository contains a collection of analytical SQL queries and data validation scripts written for the sample **`dvdrental` database (PostgreSQL)**.
